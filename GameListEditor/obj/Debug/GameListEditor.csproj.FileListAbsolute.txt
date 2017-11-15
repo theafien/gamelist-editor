@@ -1,0 +1,8 @@
+D:\home\dev\projects\GameListEditor\GameListEditor\bin\Debug\GameListEditor.exe
+D:\home\dev\projects\GameListEditor\GameListEditor\bin\Debug\GameListEditor.pdb
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.csprojResolveAssemblyReference.cache
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.FrmMain.resources
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.Properties.Resources.resources
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.csproj.GenerateResource.Cache
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.exe
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Debug\GameListEditor.pdb

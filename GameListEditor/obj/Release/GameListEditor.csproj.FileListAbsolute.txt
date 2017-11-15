@@ -1,0 +1,7 @@
+D:\home\dev\projects\GameListEditor\GameListEditor\bin\Release\GameListEditor.exe
+D:\home\dev\projects\GameListEditor\GameListEditor\bin\Release\GameListEditor.pdb
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Release\GameListEditor.FrmMain.resources
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Release\GameListEditor.Properties.Resources.resources
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Release\GameListEditor.csproj.GenerateResource.Cache
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Release\GameListEditor.exe
+D:\home\dev\projects\GameListEditor\GameListEditor\obj\Release\GameListEditor.pdb
